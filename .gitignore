@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj.user
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Environment
+.env
+.local
+
+# OS
+.DS_Store
+Thumbs.db
